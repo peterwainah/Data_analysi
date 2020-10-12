@@ -7,3 +7,4 @@
 |5|df_name.shape| count of rows and column|
 |6|df_name.info()| output data types information|
 |7|df_name.describe()| outputs numerical analysis and visualization|
+|8|df.head(n)/df.tail(n)|Acess Top/bottom of records|
